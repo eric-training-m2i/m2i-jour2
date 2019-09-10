@@ -1,0 +1,5 @@
+config.yaml
+# tous le dossier logs
+/logs/*
+# sauf le fichier .gitkeep
+!/logs/.gitkeep
